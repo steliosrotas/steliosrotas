@@ -5,6 +5,6 @@
 <h3 align="center">Languages and tools I know</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=c,cpp,py,django,latex,git,github,linux,html,css,react&perline=4)" />
+    <img src="[https://skillicons.dev/icons?i=c,cpp,py,django,latex,git,github,linux,html,css,react&perline=4]" />
   </a>
 </p>
