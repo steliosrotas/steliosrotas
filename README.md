@@ -5,6 +5,6 @@
 <h3 align="center">Languages and tools I know/use</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,django,latex,git,github,linux,html,css,react&perline=5" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,django,latex,git,github,linux,html,css,js,react&perline=5" />
   </a>
 </p>
